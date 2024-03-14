@@ -1,0 +1,48 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(255, 255, 255);
+  background-color: #141947;
+}
+
+p {
+  font-size: 15px;
+  margin-top: 0px;
+}
+
+img {
+  width: 180px;
+  margin-right: 10px;
+  display: flex;
+  float: left;
+  border-radius: 90px;
+}
+
+.hed {
+  margin-top: 10%;
+  display: flex;
+  justify-content: center;
+}
+
+.hed,
+h1 {
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+
+section div {
+  margin: auto;
+  /* border: 1px solid rgb(255, 0, 0); Borde para visualización */
+}
+
+/* table, th{
+  
+  border: 1px solid rgb(255, 0, 0); /* Borde para visualización */
+/* } */ 
+
+.hed,
+section {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  /* border: 1px solid black; Borde para visualización */
+}
