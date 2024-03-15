@@ -8,7 +8,7 @@
   margin-top: 10%;
   display: flex;
   justify-content: center;
-  /* border: 1px solid rgb(0, 255, 115); */
+  border: 1px solid rgb(0, 255, 115);
 
 }
 
@@ -32,11 +32,11 @@
 
 .hed section div {
   margin: auto;
-  /* border: 1px solid rgb(255, 242, 0); */
+  border: 1px solid rgb(255, 242, 0);
 }
 
 table th {
-  /* border: 1px solid rgb(255, 0, 0); */
+  border: 1px solid rgb(255, 0, 0);
 }
 
 .hed section {
@@ -48,10 +48,10 @@ table th {
 .socials {
   display: flex;
   justify-content: center;
-  /* border: 1px solid rgb(0, 255, 115); */
+  border: 1px solid rgb(0, 255, 115);
 }
 
 .socials section {
-  /* border: 1px solid rgb(255, 242, 0); */
+  border: 1px solid rgb(255, 242, 0);
 
 }
